@@ -1,0 +1,1 @@
+# Mini-Project_Atmeneti_Csapatnev
