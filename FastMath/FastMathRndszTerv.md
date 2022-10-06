@@ -44,23 +44,23 @@
 
 ## 7. Teszt terv
 ### Leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
-- Fejlesztői teszt:
+### Fejlesztői teszt:
 #### A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, a hibakezelés és az alapvető funkciók működésének vizsgálata.
-- Prototípus teszt:
+### Prototípus teszt:
 #### A prototípus tesztelés célja a rendszer már működő moduljainak önálló tesztelése, a modulon belüli hibák azonosításának és kiküszöbölésének érdekében.
-- Integrációs teszt:
+### Integrációs teszt:
 #### Az integrációs teszt célja a rendszer más rendszerekhez történő illesztésének vizsgálata, a több rendszereken keresztül átívelő funkciók tesztelésének érdekében.Az adatmigrációs tesztelés az integrációs teszteléshez tartozik, ennek lényege, hogy a bevezetendő rendszerbe áttöltik azokat az adatokat, amelyekkel a rendszer dolgozni fog és letesztelik a betöltött adatok, illetve az adatokat kezelő funkciók helyességét.
-- Elfogadási teszt:
+### Elfogadási teszt:
 #### Az elfogadási teszt (angolul User Acceptance Test) célja a rendszer teljes funkcionalitásának vizsgálata a felhasználók szemszögéből.
-- Terheléses teszt:
+### Terheléses teszt:
 #### A terheléses teszt célja a tervezett kapacitások, valamint a rendelkezésre álló növekedési potenciál meghatározása.
-- Go live teszt:
+### Go live teszt:
 #### A go-live teszt egy próbaélesítés, melynek során a korábbi rendszerek továbbra is üzemelnek annak érdekében, hogy az élesítéskor keletkező problémák ne befolyásolják a normál üzemi működést.
-- Megbízhatósági teszt:
+### Megbízhatósági teszt:
 #### A megbízhatósági teszt célja, hogy a rendszerrel elvégezhető feladatokról - lehetőleg mindről -megmutassa, hogy hosszú időn át képesek determinisztikusan és konzisztensen működni adottkörnyezetben. Más aspektusból – alacsonyabb tesztszinten – azt várjuk el egy-egy művelettől, hogyugyanazt az eredményt kapjuk, ha újra és újra végrehajtjuk adott körülmények között.
-- Hordozhatósagi teszt:
+### Hordozhatósagi teszt:
 #### A hordozhatósági teszt célja a különböző platformokon működő képes használat(Windows operáiós rendzserek, Linux, Android, IOS)
-- Megfelelési teszt:
+### Megfelelési teszt:
 #### A szerződésekben foglaltakat vizsgálja, hogy a projekt minden része megfelel e a szerződött fél kritériumaival.
 
 6. Specifikáció
