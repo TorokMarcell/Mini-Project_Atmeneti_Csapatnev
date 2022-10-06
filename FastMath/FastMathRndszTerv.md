@@ -63,7 +63,7 @@
 ### Megfelelési teszt:
 #### A szerződésekben foglaltakat vizsgálja, hogy a projekt minden része megfelel e a szerződött fél kritériumaival.
 
-## 6. Specifikáció
+## 8. Specifikáció
 #### A specifikáció (software specification) célja a feladatot megoldó szoftver funkcióinak tisztázása, a rendszerre és a fejlesztésre vonatkozó elvárások megadása feltérképezi a követelményeket felhasználói, valamint fejlesztői szemszögből, lépései: megvalósíthatósági elemzés követelmény megállapítás és elemzéskövetelmény specifikáció eredménye a szoftver követelmény-leírása  Egy rendszer funkcionális követelményei leírják, hogy a rendszernek milyen funkciókkal kell rendelkezni, hogyan kellene működnie 
 ### Nemfunkcionális követelmények:
 - megbízhatóság
