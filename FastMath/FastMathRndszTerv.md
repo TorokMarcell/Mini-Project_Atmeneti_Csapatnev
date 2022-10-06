@@ -4,19 +4,17 @@
 ## 1. Bevezetés
 #### Mai rohanó világunkban a közösségi média megpecsételi fiatal tanulóink életét, illetve az esetlegesen bekövetkező online oktatás is megnehezítené a dolgukat a tanulásban. Iskolánk vezetősége ezért állt elő azzal a brilliáns ötlettel, hogy készítsünk a napközis illetve, rendes tanulók számára oktató jellegű játékokat. Ehhez nem kell mást tenni, mint minden egyéb weboldalt a délutának órákban letiltani az iskola hálózatában (értsük ezalatt a Facebook, Youtube és más egyéb platformokat), és csak a diákok tanítása, fejlesztése céljából készített és telepített programokat engedélyezni.
 
-2. Projekt terv
-A rendszer létrehozásához rendelkezésre álló erőforrások: A felhasználó által
-használt notebookok/asztali számítógépek melyeknek rendelkezniük kell egy futó
-opercációs rendszerrel(Windows 7, Windows 10, Linux)
+## 2. Projekt terv
+#### A rendszer létrehozásához rendelkezésre álló erőforrások: A felhasználó által használt notebookok/asztali számítógépek melyeknek rendelkezniük kell egy futó opercációs rendszerrel(Windows 7, Windows 10, Linux)
 
-Résztvevők és főbb szereplők:
-	Bálint Ádám: Fő oldal, a program fejlesztése és dizájn,tesztelés.
-	Deme Viktor: A program fejlesztése és dizájn, tesztelés.
-	Török Marcell: A program fejlesztése és dizájn, tesztelés.
-	Katona Bálint: A program fejlesztése és dizájn, tesztelés.
-	Czafik Milán: A fejlesztés felülvizsgálása.
+## 3. Résztvevők és főbb szereplők:
+- Bálint Ádám: Fő oldal, a program fejlesztése és dizájn,tesztelés.
+- Deme Viktor: A program fejlesztése és dizájn, tesztelés.
+- Török Marcell: A program fejlesztése és dizájn, tesztelés.
+- Katona Bálint: A program fejlesztése és dizájn, tesztelés.
+- Czafik Milán: A fejlesztés felülvizsgálása.
 
-Mérföldkövek:
+### Mérföldkövek:
 I.    Feladatok kiosztása megegyezés és tudás szerint.
 II.   Dokumentációk, leírások képernyő tervek véglegesítése.
 III.  Git repo folyamatos frissítése amikor akármi elkészül.
