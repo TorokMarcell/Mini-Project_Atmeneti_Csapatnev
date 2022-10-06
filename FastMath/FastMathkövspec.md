@@ -27,6 +27,7 @@ GITHUB-on való szerkesztés mellőzése
 Mindenki egyaránt vegyen részt minden feladat elkészítésében, különböző területek (frontend, backend) közötti kommunikáció nagy fontosságú.
 
 6. Követlménylista
+ 
 |ID |   Modul    |        Név         |    Leírás                                                                     |
 |---|------------|:-----------------: |------------------------------------------------------------------------------:|										     
 |1  |  Főoldal   |  Választófelület   | A matematikai műveletek közötti választási lehetőség a főoldalon.             |
