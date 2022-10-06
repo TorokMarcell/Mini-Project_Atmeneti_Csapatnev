@@ -27,19 +27,19 @@
 ### A program funkcionális leírása:
 #### Futtatás után egy kezelőfelület jelenik meg, ahol 3 menüpont fogad. Egy indítás menüpont, egy eredmények menüpont, ahol az eddigi eredményeink nézhetőek meg, illetve egy kilépés menüpont. Az indításra kattintva felugrik egy ablak, ahol el kell döntenie a felhasználónak, hogy mit szeretne gyakorloni (összeadás, kivonás, szorzás, osztás), valamint milyen nehézséggel szeretné azt megtenni(könnyű, közepes, nehéz, vegyes). Miután a felhasználó eldöntötte, mit szeretne gyakorolni, egy másik ablak jelenik meg, rajta egy pont számlálóval, két számmal és egy műveletjellel, egy számlálóval(mely a hátralévő időt mutatja) és 10 feladattal. Ezen kívül a helyes/helytelen megoldások számai is fel van tűntetve (Helyes válasz 1 pont, helytelen 0). Ha az összes feladatot befejeztük, megkapjuk a helyes feladatokért kapott pontszámokat és el tudjuk menteni az eredményünket egy a felhasználó által begépelt névvel.
 
-4. Fizikai Követelmény
-Futtatás módja:
-	-Minden számítógépen lokálisan fut majd
-Futtató környezet:
+## 6. Fizikai Követelmény
+### Futtatás módja:
+	- Minden számítógépen lokálisan fut majd
+### Futtató környezet:
 	-A felhasználó által használt számítógép operációs rendszere
-Elérhető operációs rendszerek:
+### Elérhető operációs rendszerek:
 	-Windows 7
 	-Windows 8
 	-Windows 8.1
 	-Windows 10
-Szoftver moduljai:
+### Szoftver moduljai:
 	-A szoftvert két Windows Form Application tesz össze
-Fejlesztői környezet:
+### Fejlesztői környezet:
 	-Visual Studio C#
 
 5. Teszt terv
