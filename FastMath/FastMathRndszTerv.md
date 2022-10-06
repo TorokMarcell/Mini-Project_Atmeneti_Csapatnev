@@ -1,11 +1,8 @@
 ## Cél:
-##### A cél, hogy minél részletesebben meghatározzuk mit szeretnénk látni a projekt végén és ezt le is kell írni. Nyílván nem feltétlenül lehet minden egyes részét maximális részletekbe menően definiálni, de erre törekszünk. Minél jobban meg tudjuk határozni mit szeretnék, annál inkább tudjuk csökkenteni a projekt rizikófaktorait az adott szabályok és igények határain belül. 
+#### A cél, hogy minél részletesebben meghatározzuk mit szeretnénk látni a projekt végén és ezt le is kell írni. Nyílván nem feltétlenül lehet minden egyes részét maximális részletekbe menően definiálni, de erre törekszünk. Minél jobban meg tudjuk határozni mit szeretnék, annál inkább tudjuk csökkenteni a projekt rizikófaktorait az adott szabályok és igények határain belül. 
 
-1. Bevezetés
-Mai rohanó világunkban a közösségi média megpecsételi fiatal tanulóink életét, illetve az esetlegesen bekövetkező online oktatás is megnehezítené a dolgukat a tanulásban.
-Iskolánk vezetősége ezért állt elő azzal a brilliáns ötlettel, hogy készítsünk a napközis illetve, rendes tanulók számára oktató
-jellegű játékokat. Ehhez nem kell mást tenni, mint minden egyéb weboldalt
-a délutának órákban letiltani az iskola hálózatában (értsük ezalatt a Facebook, Youtube és más egyéb platformokat), és csak a diákok tanítása, fejlesztése céljából készített és telepített programokat engedélyezni.
+## 1. Bevezetés
+#### Mai rohanó világunkban a közösségi média megpecsételi fiatal tanulóink életét, illetve az esetlegesen bekövetkező online oktatás is megnehezítené a dolgukat a tanulásban. Iskolánk vezetősége ezért állt elő azzal a brilliáns ötlettel, hogy készítsünk a napközis illetve, rendes tanulók számára oktató jellegű játékokat. Ehhez nem kell mást tenni, mint minden egyéb weboldalt a délutának órákban letiltani az iskola hálózatában (értsük ezalatt a Facebook, Youtube és más egyéb platformokat), és csak a diákok tanítása, fejlesztése céljából készített és telepített programokat engedélyezni.
 
 2. Projekt terv
 A rendszer létrehozásához rendelkezésre álló erőforrások: A felhasználó által
