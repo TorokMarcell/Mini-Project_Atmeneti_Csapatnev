@@ -1,11 +1,5 @@
-﻿Cél, hogy minél részletesebben meghatározzuk mit szeretnénk látni a projekt végén és ezt le is kell írni. 
-Nyílván nem feltétlenül lehet minden egyes részét maximális részletekbe menően definiálni, de erre törekszünk. 
-Minél jobban meg tudjuk határozni mit szeretnék, annál inkább tudjuk csökkenteni a 
-projekt rizikófaktorait az adott szabályok és igények határain belül.
-
-Konceptuális: 1. 2. 6.
-Nagyvonalú: 1. 2. 3. 4. 6.
-Részletes: 1. 2. 3. 4. 5. 6. (adott időintervallum megadása, ezt a trello-ban megadtuk mindegyiknek, hogy minek mi a határideje)
+## Cél:
+##### A cél, hogy minél részletesebben meghatározzuk mit szeretnénk látni a projekt végén és ezt le is kell írni. Nyílván nem feltétlenül lehet minden egyes részét maximális részletekbe menően definiálni, de erre törekszünk. Minél jobban meg tudjuk határozni mit szeretnék, annál inkább tudjuk csökkenteni a projekt rizikófaktorait az adott szabályok és igények határain belül. 
 
 1. Bevezetés
 Mai rohanó világunkban a közösségi média megpecsételi fiatal tanulóink életét, illetve az esetlegesen bekövetkező online oktatás is megnehezítené a dolgukat a tanulásban.
