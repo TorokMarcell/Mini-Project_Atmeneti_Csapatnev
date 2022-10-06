@@ -27,8 +27,8 @@ GITHUB-on való szerkesztés mellőzése
 Mindenki egyaránt vegyen részt minden feladat elkészítésében, különböző területek (frontend, backend) közötti kommunikáció nagy fontosságú.
 
 6. Követlménylista
-|ID  |  Modul       |    Név              | Leírás|
-|---:|:-------------:|:------------------:| :-----------------------------------------------------------------:|
+|ID  |  Modul        |    Név             | Leírás                                                             |
+|:---|:-------------:|:------------------:| :-----------------------------------------------------------------:|
 | 1  |Főoldal        |  Választófelület   |  A matematikai műveletek közötti választási lehetőség a főoldalon. |
 | 2  |Főoldal        |  Kinézet           |  Egyszerű kinézet a gyermekek könnyű eligazodása érdekében.        |
 | 3  |Főoldal        |  Kinézet           |  Kinézet megtervezése, deklarálása, képernyőtervek elkészítése     |
