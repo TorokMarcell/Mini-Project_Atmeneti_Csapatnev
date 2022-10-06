@@ -18,13 +18,7 @@
 #### -> Matematika megismertetése,megszerettetése az iskolás gyerekekkel. -> Közösség kialakulása a játék által.
 
 ## 5. Vágyálom rendszer 
-#### Szeretnénk olyan játékot készíteni, amely könnyen kezelhetőek,figyelemfelkeltőek és nem állnak messze az oktatástól
-#### sem, gondolunk itt logika bővítésére.
-#### Célunk az, hogy a diákok a saját tudásuk alapján dolgozzanak, illetve új tudásra, feladatmegoldási rutinra tegyenek szert, ezért minden feladat véletlenszerű.
-#### Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető
-#### Követelmény, hogy a program a határidő lejárta előtt elkészüljön és működőképes állapotú legyen 
-#### GITHUB-on való szerkesztés mellőzése
-#### Mindenki egyaránt vegyen részt minden feladat elkészítésében, különböző területek (frontend, backend) közötti kommunikáció nagy fontosságú.
+#### Szeretnénk olyan játékot készíteni, amely könnyen kezelhetőek,figyelemfelkeltőek és nem állnak messze az oktatástól sem, gondolunk itt logika bővítésére. Célunk az, hogy a diákok a saját tudásuk alapján dolgozzanak, illetve új tudásra, feladatmegoldási rutinra tegyenek szert, ezért minden feladat véletlenszerű. Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető Követelmény, hogy a program a határidő lejárta előtt elkészüljön és működőképes állapotú legyen  GITHUB-on való szerkesztés mellőzése  Mindenki egyaránt vegyen részt minden feladat elkészítésében, különböző területek (frontend, backend) közötti kommunikáció nagy fontosságú.
 
 ## 6. Követlménylista
  
