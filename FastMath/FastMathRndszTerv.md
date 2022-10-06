@@ -14,14 +14,14 @@
 - Katona Bálint: A program fejlesztése és dizájn, tesztelés.
 - Czafik Milán: A fejlesztés felülvizsgálása.
 
-### Mérföldkövek:
-I.    Feladatok kiosztása megegyezés és tudás szerint.
-II.   Dokumentációk, leírások képernyő tervek véglegesítése.
-III.  Git repo folyamatos frissítése amikor akármi elkészül.
-IV.   Folyamatos kapcsolattartás a projektben résztvevőkkel.
-V.    Tesztelési folyamatok befejezése.
-VI.   Felkészülés a projekt bemutatására.
-VII.  Bemutatás.
+## 4. Mérföldkövek:
+1.    Feladatok kiosztása megegyezés és tudás szerint.
+2.   Dokumentációk, leírások képernyő tervek véglegesítése.
+3.  Git repo folyamatos frissítése amikor akármi elkészül.
+4.   Folyamatos kapcsolattartás a projektben résztvevőkkel.
+5.    Tesztelési folyamatok befejezése.
+6.   Felkészülés a projekt bemutatására.
+7.  Bemutatás.
 
 3. Funkcionális leírás
 A program funkcionális leírása:
