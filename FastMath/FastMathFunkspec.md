@@ -1,6 +1,6 @@
 ## 1. A rendszer céljai és nem céljai
  - 4 különböző matematikai művelet
- - Könnyű kezelhetőseg
+ - Könnyű kezelhetőség
  - Nehézségi szint beállítása
  - A játékok ne legyenek túl bonyolúltak
  - Fejlessze a tanulók képességeit, ismereteit
