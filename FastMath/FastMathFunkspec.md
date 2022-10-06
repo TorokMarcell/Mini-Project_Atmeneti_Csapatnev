@@ -1,14 +1,14 @@
-﻿1. A rendszer céljai és nem céljai
-- 4 különböző matematikai művelet
-- Könnyű kezelhetőseg
-- Nehézségi szint beállítása
-- A játékok ne legyenek túl bonyolúltak
-- Fejlessze a tanulók képességeit, ismereteit
-- A tanulók szórakoztatása
-- Rangsor pontszám alapján
-- Matematikai ismeretek gyakorlása
+## 1. A rendszer céljai és nem céljai
+ - 4 különböző matematikai művelet
+ - Könnyű kezelhetőseg
+ - Nehézségi szint beállítása
+ - A játékok ne legyenek túl bonyolúltak
+ - Fejlessze a tanulók képességeit, ismereteit
+ - A tanulók szórakoztatása
+ - Rangsor pontszám alapján
+ - Matematikai ismeretek gyakorlása
 
-2. Vágyálom rendszer
+## 2. Vágyálom rendszer
 - A program betöltésekor egy főmenü fogadja a felhasználót, ahol választhat 3 opció közül (Indítás, Eredmények, Kilépés)
 - Indításra kattintva négy matematikai művelet közül lehet választani(összeadás, kivonás, szorzás, osztás)
 - A feladat kiválasztása után választaniuk kell a játékosnak, hogy milyen nehézségen tenné próbára magát.(Könnyű, Közepes, Nehéz, Vegyes)
@@ -16,7 +16,7 @@
 - Ha végeztünk a 10 feladattal, egy nevet fog kérni a játék, mellyel elmentheti a felhasználó, hány pontot ért el. (rangsorban meg tudja keresni magát)
 
 
-3.  Jelenlegi üzleti folyamatok modellje
+## 3.  Jelenlegi üzleti folyamatok modellje
 A napközis tanárra egyedül jut rengetek diák, akikkel ebéd után megoldja a házi feladataikat és szükség esetén segít
 is benne. Sajnos a nevelő nem tud minden diákot egyszerre lekötni. Amint a diákok végeznek a házi megoldásával
 bekapcsolják a gépeket és közösségi médiát néznek, vagy videókat az interneten. Valószínűsíthető, hogy a jövőben nagyobb százalékban lesz jelen
@@ -25,7 +25,7 @@ számtant. A nehézségi rendszerrel saját szintjüknek megfelelően tudnak já
 Első osztálytól negyedik osztályosoknak ajánlott, de bármilyen korosztály próbára teheti képességeit.
 
 
-4. Igényelt üzleti folyamatok modellje
+## 4. Igényelt üzleti folyamatok modellje
 Azért, hogy egyszerűbbé tegyük a napközis tanár, nevelő feladatát létrehozunk egy modern programot, amely a szabad foglalkozás
 ideje alatt segít együttesen lekötni a diákokat, miközben segít nekik több készségük fejlesztésében is.
 Esetleges jutalmakat kapnának a nagyobb pontszámok után a nevelőtől, így motivációt is éreznének a program használatakor.
@@ -33,7 +33,7 @@ Elsődleges cél a logika fejlesztése, valamint a matematikai tudás gyakorlás
 Egyszerűen használható, mivel nem igényel internet hozzá férést, valamint a program
 készítése közben arra törekedtünk, hogy egyértelmű legyen és felkeltse fiatal korú felhasználók figyelmét.
 
-5. Követelménylista
+## 5. Követelménylista
 Bővített követelménylista (követelmények összeszedve a funkcionális
 specifikáció és rendszertervek alapján)
 
@@ -49,10 +49,10 @@ specifikáció és rendszertervek alapján)
 |8  |  FastMath  |  Dizájn            | Dizájn elkészítése képernyőtervek alapján.                                    |
 |9  |  FastMath  |  Játék             | Játékfejlesztés, funkciók.                                                    |
 
-6. Használati esetek
+## 6. Használati esetek
 Bárki/Diák: A játékot legfőképpen diákoknak terveztük. Ez azonban nem zárja ki, hogy más korosztály is tesztelje tudását, esetleg fejlessze saját magát.
 A játékok elindíthatják és szórakozás közben tanulhatnak, fejleszthetik magukat.
 
 
-7. Terjedelem
+## 7. Terjedelem
 Körülbelül 2000 soros kód.
