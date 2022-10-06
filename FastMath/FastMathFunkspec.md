@@ -37,16 +37,17 @@ készítése közben arra törekedtünk, hogy egyértelmű legyen és felkeltse 
 Bővített követelménylista (követelmények összeszedve a funkcionális
 specifikáció és rendszertervek alapján)
 
-ID  Modul            Név                Leírás
-1   Főoldal          Választófelület    A matematikai műveletek közötti választási lehetőség a főoldalon.
-2   Főoldal          Kinézet            Egyszerű és figyelemfelkeltő kinézet a gyermekek könnyű eligazodása érdekében.
-3   Főoldal          Kinézet            Kinézet megtervezése, deklarálása, képernyőtervek elkészítése
-4   Főoldal          Kinézet            Kinézet implementálása képernyőtervek alapján
-5   FastMath         Kinézet            A kezelőfelület legyen egyértelmű és könnyen használható
-6   FastMath         Dizájn             Az oldal dizájnfelépítése legyen egyszerű és játékos.
-7   FastMath         Dizájn             Játék alapvető kinézetének deklarálása, képernyőtervek elkészítése
-8   FastMath         Dizájn             Dizájn elkészítése képernyőtervek alapján.
-9   FastMath         Játék              Játékfejlesztés, funkciók.
+|ID |   Modul    |        Név         |    Leírás                                                                     |
+|---|------------|:-----------------: |------------------------------------------------------------------------------:|										     
+|1  |  Főoldal   |  Választófelület   | A matematikai műveletek közötti választási lehetőség a főoldalon.             |
+|2  |  Főoldal   |  Kinézet           | Egyszerű és figyelemfelkeltő kinézet a gyermekek könnyű eligazodása érdekében.|
+|3  |  Főoldal   |  Kinézet           | Kinézet megtervezése, deklarálása, képernyőtervek elkészítése                 |
+|4  |  Főoldal   |  Kinézet           | Kinézet implementálása képernyőtervek alapján                                 |
+|5  |  FastMath  |  Kinézet           | A kezelőfelület legyen egyértelmű és könnyen használható                      |
+|6  |  FastMath  |  Dizájn            | Az oldal dizájnfelépítése legyen egyszerű és játékos.                         |
+|7  |  FastMath  |  Dizájn            | Játék alapvető kinézetének deklarálása, képernyőtervek elkészítése            |
+|8  |  FastMath  |  Dizájn            | Dizájn elkészítése képernyőtervek alapján.                                    |
+|9  |  FastMath  |  Játék             | Játékfejlesztés, funkciók.                                                    |
 
 6. Használati esetek
 Bárki/Diák: A játékot legfőképpen diákoknak terveztük. Ez azonban nem zárja ki, hogy más korosztály is tesztelje tudását, esetleg fejlessze saját magát.
