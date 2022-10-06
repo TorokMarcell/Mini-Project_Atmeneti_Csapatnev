@@ -1,19 +1,19 @@
 ## 1. A rendszer céljai és nem céljai
-      - 4 különböző matematikai művelet
-      - Könnyű kezelhetőseg
-      - Nehézségi szint beállítása
-      - A játékok ne legyenek túl bonyolúltak
-      - Fejlessze a tanulók képességeit, ismereteit
-      - A tanulók szórakoztatása
-      - Rangsor pontszám alapján
-      - Matematikai ismeretek gyakorlása
+ - 4 különböző matematikai művelet
+ - Könnyű kezelhetőseg
+ - Nehézségi szint beállítása
+ - A játékok ne legyenek túl bonyolúltak
+ - Fejlessze a tanulók képességeit, ismereteit
+ - A tanulók szórakoztatása
+ - Rangsor pontszám alapján
+ - Matematikai ismeretek gyakorlása
 
 ## 2. Vágyálom rendszer
-     - A program betöltésekor egy főmenü fogadja a felhasználót, ahol választhat 3 opció közül (Indítás, Eredmények, Kilépés)
-     - Indításra kattintva négy matematikai művelet közül lehet választani(összeadás, kivonás, szorzás, osztás)
-     - A feladat kiválasztása után választaniuk kell a játékosnak, hogy milyen nehézségen tenné próbára magát.(Könnyű, Közepes, Nehéz, Vegyes)
-     - Ez után a megfelelő beállításokkal elindul a játék, kapunk 10 feladatot, minden egyes feladat megoldása után, kiírja a játék, hogy amit beírtam válasz helyes-e,        vagy nem. (Helyes válasz 1 pont, helytelen 0)
-     - Ha végeztünk a 10 feladattal, egy nevet fog kérni a játék, mellyel elmentheti a felhasználó, hány pontot ért el. (rangsorban meg tudja keresni magát)
+- A program betöltésekor egy főmenü fogadja a felhasználót, ahol választhat 3 opció közül (Indítás, Eredmények, Kilépés)
+- Indításra kattintva négy matematikai művelet közül lehet választani(összeadás, kivonás, szorzás, osztás)
+- A feladat kiválasztása után választaniuk kell a játékosnak, hogy milyen nehézségen tenné próbára magát.(Könnyű, Közepes, Nehéz, Vegyes)
+- Ez után a megfelelő beállításokkal elindul a játék, kapunk 10 feladatot, minden egyes feladat megoldása után, kiírja a játék, hogy amit beírtam válasz helyes-e, vagy nem. (Helyes válasz 1 pont, helytelen 0)
+- Ha végeztünk a 10 feladattal, egy nevet fog kérni a játék, mellyel elmentheti a felhasználó, hány pontot ért el. (rangsorban meg tudja keresni magát)
 
 
 ## 3.  Jelenlegi üzleti folyamatok modellje
