@@ -29,27 +29,24 @@
 
 ## 6. Fizikai Követelmény
 ### Futtatás módja:
-	- Minden számítógépen lokálisan fut majd
+- Minden számítógépen lokálisan fut majd
 ### Futtató környezet:
-	-A felhasználó által használt számítógép operációs rendszere
+- A felhasználó által használt számítógép operációs rendszere
 ### Elérhető operációs rendszerek:
-	-Windows 7
-	-Windows 8
-	-Windows 8.1
-	-Windows 10
+- Windows 7
+- Windows 8
+- Windows 8.1
+- Windows 10
 ### Szoftver moduljai:
-	-A szoftvert két Windows Form Application tesz össze
+-A szoftvert két Windows Form Application tesz össze
 ### Fejlesztői környezet:
-	-Visual Studio C#
+-Visual Studio C#
 
-5. Teszt terv
-	 Leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. 
-	 Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, 
-	 sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
-	-Fejlesztői teszt
-	 	A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, a hiba
-	 	kezelés és az alapvető funkciók működésének vizsgálata.
-	-Prototípus teszt
+## 7. Teszt terv
+### Leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
+	- Fejlesztői teszt
+#### A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, a hibakezelés és az alapvető funkciók működésének vizsgálata.
+	- Prototípus teszt
 	 	A prototípus tesztelés célja a rendszer már működő moduljainak önálló tesztelése, 
 	 	a modulon belüli hibák azonosításának és kiküszöbölésének érdekében.
 	-Integrációs teszt
