@@ -11,7 +11,7 @@
 ## 4. Igényelt üzleti folyamatok modellje
 #### A iskolai gépeken megszüntetni a fölösleges weboldalakat -> Helyette készségfejlesztő, gondolkodtató játékokat használják. -> Legyen könnyen kezelhető! -> Nehézségi szintek beépítése -> Akármennyi ideig próbálkozhat vele. -> Matematika megismertetése,megszerettetése az iskolás gyerekekkel. -> Közösség kialakulása a játék által.
 
-## 5. Vágyálom rendszer 
+## 5. Vágyálomrendszer 
 #### Szeretnénk olyan játékot készíteni, amely könnyen kezelhetőek, figyelemfelkeltőek és nem állnak messze az oktatástól sem, gondolunk itt logika bővítésére. Célunk az, hogy a diákok a saját tudásuk alapján dolgozzanak, illetve új tudásra, feladatmegoldási rutinra tegyenek szert, ezért minden feladat véletlenszerű. Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető. Követelmény, hogy a program a határidő lejárta előtt elkészüljön és működőképes állapotú legyen. GITHUB-on való szerkesztés mellőzése. Mindenki egyaránt vegyen részt minden feladat elkészítésében, különböző területek (frontend, backend) közötti kommunikáció létfontosságú.
 
 ## 6. Követelménylista
