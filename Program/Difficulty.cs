@@ -24,12 +24,12 @@ namespace FastMath
         }
         private void btnMedium_CLick(object sender, EventArgs b)
         {            
-            Form3 jatekN = new Form3();
+            Form4 jatekN = new Form4();
             jatekN.ShowDialog();
         }
         private void btn_Hard(object sender, EventArgs c)
         {
-            Form4 jatekH = new Form4();
+            Form3 jatekH = new Form3();
             jatekH.ShowDialog();
         }
         private void btnAllKind_Clicker(object sender, EventArgs d)

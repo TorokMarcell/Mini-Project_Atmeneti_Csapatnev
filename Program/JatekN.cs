@@ -57,8 +57,8 @@ namespace FastMath
 
         private void SetUpGameN()
         { 
-            int numA2 = rnd2.Next(0, 0);
-            int numB2 = rnd2.Next(9, 18);
+            int numA2 = rnd2.Next(20, 50);
+            int numB2 = rnd2.Next(18, 36);
 
             txtAnswer.Text = null;
 

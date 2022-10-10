@@ -58,7 +58,7 @@ namespace FastMath
         private void SetUpGameH()
         {
             int numA = rnd3.Next(50, 90);
-            int numB = rnd3.Next(18, 36);
+            int numB = rnd3.Next(36, 56);
 
             txtAnswer.Text = null;
 
