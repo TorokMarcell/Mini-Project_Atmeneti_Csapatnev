@@ -8,10 +8,10 @@
 #### A rendszer létrehozásához rendelkezésre álló erőforrások: A felhasználó által használt notebookok/asztali számítógépek melyeknek rendelkezniük kell egy futó opercációs rendszerrel(Windows 7, Windows 10, Linux)
 - Scrum Masters: Czafik Milán
 - Product Owner: Czafik Milán , Bálint Ádám , Deme Viktor , Török Marcell , Katona Bálint
-- contributer: Bálint Ádám
-- contributer: Deme Viktor
-- contributer: Török Marcell
-- contributert: Katona Bálint
+- Contributer: Bálint Ádám
+- Contributer: Deme Viktor
+- Contributer: Török Marcell
+- Contributer: Katona Bálint
 - Megrendelő: Köznevelésért Felelős Államtitkárság
 
 ## 3. Résztvevők és főbb szereplők:
