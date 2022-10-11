@@ -31,7 +31,7 @@
 ### Futtatás módja:
 - Minden számítógépen lokálisan fut majd
 ### Futtató környezet:
-- A felhasználó által használt számítógép operációs rendszere
+- .NET Framework
 ### Elérhető operációs rendszerek:
 - Windows 7
 - Windows 8
