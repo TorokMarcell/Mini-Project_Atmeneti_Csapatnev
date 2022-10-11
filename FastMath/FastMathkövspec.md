@@ -5,8 +5,8 @@
 #### Manapság a tanulók java része rendelkezik olyan mindennapokban használt elektronikai eszközökkel, mint pédául a számítógép vagy a telefon. Ám a tanulásról elvonja a figyelmüket a közösségi média és az egyéb internetes/telefonos játékok. Célunk az, hogy az "unalmas" tollal írt formát leváltsuk olyan modern, számítógépeken használatos alkalmazásokra, amelyekkel valamilyen játékos formában adhatjuk át a tanulás "élvezetét". Ez környezetbarát is, hiszen csökkentjük a papír használatát.
 
 ## 3. Jelenlegi üzleti folyamatok modellje
-#### Általános iskolások -> Nincs több közösségi média -> Helyette egy tanító/oktató jellegű mégis figyelemfelkeltő játékokat érnek el
-#### Egyéb felhasználók -> Régi tanulmányok felidézése -> Saját szórakozás, időtöltés -> Képességek fejlesztése
+#### Általános iskolások -> A közösségi média minden figyelmüket eltereli -> Tanulás elhanyagolása -> Kevés ismeret, rossz jegyek -> Nehezebb jövő.
+#### Egyéb felhasználók -> Önképzés hiánya -> Ismeretek és tanulmányok a feledésbe merülnek.
 
 ## 4. Igényelt üzleti folyamatok modellje
 #### A iskolai gépeken megszüntetni a fölösleges weboldalakat. -> Helyette készségfejlesztő, gondolkodtató játékok használata. -> Legyenek könnyen kezelhetőek! -> Nehézségi szintek beépítése -> Korlátlan próbálkozási lehetőség -> Matematika megismertetése és megkedveltetése az iskolás gyerekekkel. -> Közösség kialakulása a játék által.
