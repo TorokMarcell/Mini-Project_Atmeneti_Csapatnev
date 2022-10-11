@@ -1,8 +1,8 @@
 ## 1. Bevezetés
 #### Mai rohanó világunkban a közösségi média megpecsételi fiatal tanulóink életét, illetve az esetlegesen bekövetkező online oktatás is megnehezítené a dolgukat a tanulásban. Iskolánk vezetősége ezért állt elő azzal a brilliáns ötlettel, hogy készítsünk a napközis illetve, rendes tanulók számára oktató jellegű játékokat. Ehhez nem kell mást tenni, mint minden egyéb weboldalt  a délutának órákban letiltani az iskola hálózatában (értsük ezalatt a Facebook, Youtube és más egyéb platformokat), és csak a diákok tanítása, fejlesztése céljából készített és telepített programokat engedélyezni.
 
-## 2. Jelenlegi helyzet
-#### Jelenleg a tanulók java része használ valamiféle számítógépet(ha mást nem, telefont biztos), ám a tanulásról elvonja a figyelmüket a közösségi média és a internetes/telefonos játékok. Célünk az, hogy az "unalmas" tollal írt formát leváltsuk, egy modern, számítógépeken használatos alkalmazásokkal, amely valamilyen játékos formában adja át a tanulás "élvezetét". Ez környezetbarát is, hiszen csökkentsük a papír használatát.
+## 2. Jelenlegi helyzet 
+#### Manapság a tanulók java része rendelkezik olyan mindennapokban használt elektronikai eszközökkel, mint pédául a számítógép vagy a telefon. Ám a tanulásról elvonja a figyelmüket a közösségi média és az egyéb internetes/telefonos játékok. Célunk az, hogy az "unalmas" tollal írt formát leváltsuk olyan modern, számítógépeken használatos alkalmazásokra, amelyekkel valamilyen játékos formában adhatjuk át a tanulás "élvezetét". Ez környezetbarát is, hiszen csökkentjük a papír használatát.
 
 ## 3. Jelenlegi üzleti folyamatok modellje
 #### Általános iskolások -> Nincs több közösségi média -> Helyette egy tanító/oktató jellegű mégis figyelemfelkeltő játékokat érnek el
