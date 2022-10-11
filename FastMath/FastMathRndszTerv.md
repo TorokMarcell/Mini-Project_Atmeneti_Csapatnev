@@ -63,8 +63,8 @@
 ### Megfelelési teszt:
 - A szerződésekben foglaltakat vizsgálja, hogy a projekt minden része megfelel e a szerződött fél kritériumaival.
 
-## 8. Specifikáció
-#### A specifikáció (software specification) célja a feladatot megoldó szoftver funkcióinak tisztázása, a rendszerre és a fejlesztésre vonatkozó elvárások megadása feltérképezi a követelményeket felhasználói, valamint fejlesztői szemszögből, lépései: megvalósíthatósági elemzés követelmény megállapítás és elemzéskövetelmény specifikáció eredménye a szoftver követelmény-leírása  Egy rendszer funkcionális követelményei leírják, hogy a rendszernek milyen funkciókkal kell rendelkezni, hogyan kellene működnie 
+## 8. Telepités
+#### A programott Githubon keresztül lehet telepíteni miután elvégeztük a letöltést (https://crast.net/150687/downloading-files-from-github-is-very-simple-this-is-how-you-can-do-it-from-your-mobile-or-pc/, A letöltéshez segítség) utána ki bontjuk a mappát oda ahová szeretnénk.
 ### Nemfunkcionális követelmények:
 - megbízhatóság
 - válaszidő
