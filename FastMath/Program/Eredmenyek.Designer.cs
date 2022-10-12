@@ -68,6 +68,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvScore)).EndInit();
             this.ResumeLayout(false);
 
+
+
+
+
         }
 
         #endregion
