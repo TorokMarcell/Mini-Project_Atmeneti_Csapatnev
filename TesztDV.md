@@ -16,3 +16,13 @@ Tesztelés dátuma: 2022.október.10.
 | Teszt #05 | Helyes adat (int), helyes végeredmény bevitele  | A művelet végrehajtódik, az eredményként a ,,helyes" visszajelzést kapjuk, a program tovább halad a következő példára. | A művelet végrehajtódik, az eredményként a ,,helyes" visszajelzést kapjuk, a program tovább halad a következő példára.| Nem találtam problémát.   |
 
 
+| Tesztszám | Rövid leírás                                             | Várt eredmény                                                                   | Eredmény                                                                       | Megjegyzés                |
+|-----------|----------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------|
+| Teszt #01 | Visza gombra katintás    | A kattintás után a felhasználó visza kerül a főmenübe  | A Kattintás után a felhasználó visza kerül a főmenübe. | Nem találtam problémát.   |
+| Teszt #02 |  Könnyű gombra katintás  | A kattintás után át kerülünk a jaték könnyű fokozatára |  A kattintás után át kerülünk a jaték könnyű fokozatára | Nem találtam problémát.   |
+| Teszt #03 | Közepes gombra katintás  |  A kattintás után át kerülünk a jaték közepes fokozatára |  A kattintás után át kerülünk a jaték közepes fokozatára | Nem találtam problémát.   |
+| Teszt #04 | Nehéz gombra katintás  |  A kattintás után át kerülünk a jaték nehéz fokozatára |  A kattintás után át kerülünk a jaték Nehéz fokozatára | Nem találtam problémát.   |
+| Teszt #05 | Vegyes gombra katintás  | A kattintás után át kerülünk a jaték vegyes fokozatára | A kattintás után át kerülünk a jaték vegyes fokozatára | Nem találtam problémát.   |
+
+
+A teszteket én is elvégeztem és nem találtam bennük hibát.
