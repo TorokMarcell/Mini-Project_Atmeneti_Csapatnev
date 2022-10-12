@@ -16,50 +16,65 @@ namespace FastMath
         public Eredmenyek()
         {
             InitializeComponent();
-                
-            //SqlCommand cmd = new SqlCommand(command, conn);
-            //SqlDataReader rdr = cmd.ExecuteReader();
-            //if (rdr.HasRows)
-            //{
-
-            //}
-            using (MySqlConnection connection = new MySqlConnection(connString))
-            {
-                string command = "SELECT * FROM scoreboard;";
-                connection.Open();
-                MySqlCommand cmdSel = new MySqlCommand(command, connection);
-                MySqlDataReader da = cmdSel.ExecuteReader();
-                DataTable dt = new DataTable("gamewinners");
-                //da.Fill(dt);
-                //winnerData.ItemsSource = dt.DefaultView;
-                //da.Update(dt);
-                connection.Close();
-                //winnerData.DataContext = dt;
-
-
-            }
+            SelectFromDB();
+            
         }
         static string connString = "SERVER=localhost;" +
                                    "DATABASE=fastmathdb;" +
                                    "UID=root;" +
                                    "PASSWORD=;";
-        private void InsertScoreDB()
+
+        //ennek a játék végén kell lefutnia
+        private static void InsertScoreDB(string param)
         {
             using (MySqlConnection connection = new MySqlConnection(connString))
             {
                 string command = "INSERT INTO scoreboard (scoreboard.Score, scoreboard.Date) values (@val1,CURRENT_TIMESTAMP);";
                 connection.Open();
                 MySqlCommand cmdSel = new MySqlCommand(command, connection);
-                cmdSel.Parameters.AddWithValue("@val1",""); 
-                MySqlDataReader da = cmdSel.ExecuteReader();
-                DataTable dt = new DataTable("gamewinners");
+                cmdSel.Parameters.AddWithValue("@val1",param);
+                cmdSel.ExecuteNonQuery();
             }
         }
 
+        
 
         private void btnBack_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void resetScoreButton_Click(object sender, EventArgs e)
+        {
+            DeleteScoreDB();
+            SelectFromDB();
+        }
+
+        private static void DeleteScoreDB()
+        {
+            using (MySqlConnection connection = new MySqlConnection(connString))
+            {
+                string command = "TRUNCATE scoreboard;";
+                connection.Open();
+                MySqlCommand cmdSel = new MySqlCommand(command, connection);
+                cmdSel.ExecuteNonQuery();
+            }
+        }
+
+        private void SelectFromDB()
+        {
+            using (MySqlConnection connection = new MySqlConnection(connString))
+            {
+                string command = "SELECT * FROM scoreboard;";
+                connection.Open();
+                MySqlDataAdapter dataadapter = new MySqlDataAdapter(command, connection);
+                DataSet ds = new DataSet();
+                dataadapter.Fill(ds, "scoreboard");
+                dgvScore.DataSource = ds;
+                dgvScore.DataMember = "scoreboard";
+                connection.Close();
+                InsertScoreDB("10");
+            }
         }
     }
 }
