@@ -1,0 +1,99 @@
+C:\Users\balin\source\repos\FastMath\bin\Debug\FastMath.exe.config
+C:\Users\balin\source\repos\FastMath\bin\Debug\FastMath.exe
+C:\Users\balin\source\repos\FastMath\bin\Debug\FastMath.pdb
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.csproj.AssemblyReference.cache
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.Form1.resources
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.Properties.Resources.resources
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.csproj.GenerateResource.cache
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.csproj.CoreCompileInputs.cache
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.exe
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.pdb
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.Eredmenyek.resources
+C:\Users\balin\source\repos\FastMath\obj\Debug\FastMath.Difficulty.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.csproj.AssemblyReference.cache
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.exe
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.pdb
+C:\Users\certi\Desktop\FastMath\Program\bin\Debug\FastMath.exe.config
+C:\Users\certi\Desktop\FastMath\Program\bin\Debug\FastMath.exe
+C:\Users\certi\Desktop\FastMath\Program\bin\Debug\FastMath.pdb
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Difficulty.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Eredmenyek.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Form1.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Form5.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Form4.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Form3.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Form2.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.Properties.Resources.resources
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.csproj.GenerateResource.cache
+C:\Users\certi\Desktop\FastMath\Program\obj\Debug\FastMath.csproj.CoreCompileInputs.cache
+D:\Letöltések\FastMath\bin\Debug\FastMath.exe.config
+D:\Letöltések\FastMath\bin\Debug\FastMath.exe
+D:\Letöltések\FastMath\bin\Debug\FastMath.pdb
+D:\Letöltések\FastMath\obj\Debug\FastMath.csproj.AssemblyReference.cache
+D:\Letöltések\FastMath\obj\Debug\FastMath.csproj.SuggestedBindingRedirects.cache
+D:\Letöltések\FastMath\obj\Debug\FastMath.Difficulty.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Eredmenyek.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Form1.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Form5.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Form4.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Form3.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Form2.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.Properties.Resources.resources
+D:\Letöltések\FastMath\obj\Debug\FastMath.csproj.GenerateResource.cache
+D:\Letöltések\FastMath\obj\Debug\FastMath.csproj.CoreCompileInputs.cache
+D:\Letöltések\FastMath\obj\Debug\FastMath.exe
+D:\Letöltések\FastMath\obj\Debug\FastMath.pdb
+D:\Letöltések\FastMath\obj\Debug\FastMath.UserName.resources
+D:\Letöltések\FastMath\bin\Debug\EntityFramework.dll
+D:\Letöltések\FastMath\bin\Debug\EntityFramework.SqlServer.dll
+D:\Letöltések\FastMath\bin\Debug\EntityFramework.xml
+D:\Letöltések\FastMath\bin\Debug\EntityFramework.SqlServer.xml
+D:\Letöltések\FastMath\obj\Debug\FastMath.csproj.CopyComplete
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\FastMath.exe.config
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\FastMath.exe
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\FastMath.pdb
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\EntityFramework.dll
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\EntityFramework.SqlServer.dll
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\EntityFramework.xml
+D:\Letöltések\FastMath-DB_hiany\bin\Debug\EntityFramework.SqlServer.xml
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.csproj.AssemblyReference.cache
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.csproj.SuggestedBindingRedirects.cache
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Difficulty.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Eredmenyek.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Form1.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Form5.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Form4.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Form3.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Form2.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.Properties.Resources.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.UserName.resources
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.csproj.GenerateResource.cache
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.csproj.CoreCompileInputs.cache
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.csproj.CopyComplete
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.exe
+D:\Letöltések\FastMath-DB_hiany\obj\Debug\FastMath.pdb
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\FastMath.exe.config
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\FastMath.exe
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\FastMath.pdb
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\EntityFramework.dll
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\EntityFramework.xml
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.csproj.AssemblyReference.cache
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Difficulty.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Eredmenyek.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Form1.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Form5.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Form4.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Form3.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Form2.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.Properties.Resources.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.UserName.resources
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.csproj.GenerateResource.cache
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.csproj.CoreCompileInputs.cache
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.csproj.CopyComplete
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.exe
+C:\Users\balin\OneDrive\Asztali gép\FastMath-Done\obj\Debug\FastMath.pdb
