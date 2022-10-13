@@ -51,6 +51,7 @@
 
 ## 7. Teszt terv
 ### Leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
+### Mi a programunkban a fejlesztői, elfogadási, megbízhatósági és megfelelési teszteket fogjuk elvégezni.
 ### Fejlesztői teszt:
 - A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, a hibakezelés és az alapvető funkciók működésének vizsgálata.
 ### Prototípus teszt:
